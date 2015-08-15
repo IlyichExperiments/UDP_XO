@@ -1,0 +1,10 @@
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\UDP_XO_2010\UDP_XO\Server\bin\Debug\Server.exe
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\UDP_XO_2010\UDP_XO\Server\bin\Debug\Server.pdb
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\UDP_XO_2010\UDP_XO\Server\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\UDP_XO_2010\UDP_XO\Server\obj\x86\Debug\Server.exe
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\UDP_XO_2010\UDP_XO\Server\obj\x86\Debug\Server.pdb
+C:\Users\Илья\Dropbox\Работа\UDP_XO_2010\UDP_XO\Server\obj\x86\Debug\Server.exe
+C:\Users\Илья\Dropbox\Работа\UDP_XO_2010\UDP_XO\Server\obj\x86\Debug\Server.pdb
+C:\Users\Илья\Dropbox\Работа\UDP_XO_2010\UDP_XO\Server\bin\Debug\Server.exe
+C:\Users\Илья\Dropbox\Работа\UDP_XO_2010\UDP_XO\Server\bin\Debug\Server.pdb
+C:\Users\Илья\Dropbox\Работа\UDP_XO_2010\UDP_XO\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache

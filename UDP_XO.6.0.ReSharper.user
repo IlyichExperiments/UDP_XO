@@ -1,0 +1,213 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="121" fromTop="5" />
+      <File id="0288F71B-F5BE-468D-9B3E-C0591D130C97/f:Network.cs" caret="137" fromTop="8" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Network.cs" caret="224" fromTop="13" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="1759" fromTop="6" />
+      <File id="0288F71B-F5BE-468D-9B3E-C0591D130C97/f:Program.cs" caret="200" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="6597" fromTop="25" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="6804" fromTop="27" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="7038" fromTop="25" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="7541" fromTop="22" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="7416" fromTop="18" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="1200" fromTop="17" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="5827" fromTop="18" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="3825" fromTop="16" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="7831" fromTop="7" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="7286" fromTop="11" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="6418" fromTop="8" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="6111" fromTop="4" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="4509" fromTop="13" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="7619" fromTop="36" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="1185" fromTop="26" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Network.cs" caret="154" fromTop="7" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Game.cs" caret="121" fromTop="5" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Network.cs" caret="220" fromTop="13" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="1790" fromTop="36" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="1777" fromTop="29" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="208" fromTop="8" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="2085" fromTop="23" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="339" fromTop="8" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="1173" fromTop="19" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="2385" fromTop="20" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="1312" fromTop="20" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="1427" fromTop="25" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="1031" fromTop="13" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Network.cs" caret="224" fromTop="13" />
+      <File id="9B08F330-F748-48EE-929B-DB9A2CFFAF84/f:Program.cs" caret="2025" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="writemessage" priority="127" />
+      <Item value="player1score" priority="95" />
+      <Item value="player2" priority="58" />
+      <Item value="player2score" priority="63" />
+      <Item value="public" priority="31" />
+      <Item value="void" priority="191" />
+      <Item value="while" priority="95" />
+      <Item value="currentround" priority="30" />
+      <Item value="maxorunds" priority="30" />
+      <Item value="newRound`0" priority="31" />
+      <Item value="roundIsOver" priority="94" />
+      <Item value="false" priority="287" />
+      <Item value="if" priority="511" />
+      <Item value="player1" priority="58" />
+      <Item value="string" priority="254" />
+      <Item value="getdatafromplayer" priority="31" />
+      <Item value="Analyze`0" priority="31" />
+      <Item value="response" priority="127" />
+      <Item value="true" priority="159" />
+      <Item value="DrawBoard`0" priority="31" />
+      <Item value="writemessagePlayer1" priority="53" />
+      <Item value="nowPlaying" priority="127" />
+      <Item value="getdatafromplayer1" priority="26" />
+      <Item value="winner" priority="191" />
+      <Item value="writemessageboth`0" priority="58" />
+      <Item value="byte" priority="252" />
+      <Item value="GameWinner" priority="31" />
+      <Item value="return" priority="415" />
+      <Item value="String`0" priority="31" />
+      <Item value="char" priority="31" />
+      <Item value="xC" priority="32" />
+      <Item value="p" priority="63" />
+      <Item value="x" priority="159" />
+      <Item value="int" priority="127" />
+      <Item value="private" priority="159" />
+      <Item value="board" priority="287" />
+      <Item value="y" priority="31" />
+      <Item value="for" priority="95" />
+      <Item value="i" priority="63" />
+      <Item value="object" priority="31" />
+      <Item value="bool" priority="63" />
+      <Item value="draw" priority="31" />
+      <Item value="Game`0" priority="31" />
+      <Item value="new" priority="191" />
+      <Item value="Game" priority="28" />
+      <Item value="myGame" priority="95" />
+      <Item value="static" priority="63" />
+      <Item value="str" priority="31" />
+      <Item value="ReadFromConsole`0" priority="32" />
+      <Item value="WeakReference`0" priority="32" />
+      <Item value="WriteToConsole`0" priority="32" />
+      <Item value="nextPlaying" priority="31" />
+      <Item value="using" priority="123" />
+      <Item value="System" priority="123" />
+      <Item value="Net" priority="53" />
+      <Item value="Sockets" priority="26" />
+      <Item value="IO" priority="26" />
+      <Item value="socket" priority="128" />
+      <Item value="Socket" priority="28" />
+      <Item value="AddressFamily`0" priority="31" />
+      <Item value="Socket`0" priority="127" />
+      <Item value="SocketType`0" priority="26" />
+      <Item value="ProtocolType`0" priority="31" />
+      <Item value="IPAddress`0" priority="63" />
+      <Item value="IPEndPoint`0" priority="95" />
+      <Item value="IPEndPoint" priority="28" />
+      <Item value="Program`0" priority="31" />
+      <Item value="Program" priority="28" />
+      <Item value="myProgram" priority="96" />
+      <Item value="ctor" priority="31" />
+      <Item value="localEP" priority="31" />
+      <Item value="Buffer`0" priority="31" />
+      <Item value="Encoding`0" priority="63" />
+      <Item value="buffer" priority="159" />
+      <Item value="remoteEP" priority="95" />
+      <Item value="null" priority="31" />
+      <Item value="ref" priority="63" />
+      <Item value="UdpClient`0" priority="31" />
+      <Item value="udpClient" priority="64" />
+      <Item value="UdpClient" priority="28" />
+      <Item value="ConnectionEstablished" priority="62" />
+      <Item value="SendMsgToClient`0" priority="31" />
+      <Item value="SendMsg`0" priority="31" />
+      <Item value="Threading.Tasks" priority="26" />
+      <Item value="Thread`0" priority="31" />
+      <Item value="SocketFlags`0" priority="31" />
+      <Item value="Console`0" priority="63" />
+      <Item value="message" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="22" />
+      <Item value="ToCharArray`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Byte">
+      <Item value="Parse`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Char">
+      <Item value="ToString`0" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Server.Game">
+      <Item value="getdatafromplayer1" priority="53" />
+      <Item value="writemessagePlayer1" priority="26" />
+      <Item value="Go`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="ReadLine`0" priority="53" />
+      <Item value="WriteLine`0" priority="49" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.Sockets.AddressFamily">
+      <Item value="InterNetwork" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.Sockets.SocketType">
+      <Item value="Dgram" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.Sockets.ProtocolType">
+      <Item value="Udp" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.IPAddress">
+      <Item value="Parse`0" priority="26" />
+      <Item value="Any" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Server.Program">
+      <Item value="socket" priority="26" />
+      <Item value="Establish`0" priority="26" />
+      <Item value="ReceiveMsgFromClient`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.Sockets.Socket">
+      <Item value="Bind`0" priority="53" />
+      <Item value="Send`0" priority="26" />
+      <Item value="SendTo`0" priority="22" />
+      <Item value="ReceiveFrom`0" priority="49" />
+      <Item value="Receive`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.Encoding">
+      <Item value="ASCII" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.Encoding">
+      <Item value="GetBytes`0" priority="26" />
+      <Item value="GetString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>

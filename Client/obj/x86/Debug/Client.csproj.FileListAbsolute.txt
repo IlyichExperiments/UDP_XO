@@ -1,0 +1,10 @@
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\UDP_XO_2010\UDP_XO\Client\bin\Debug\Client.exe
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\UDP_XO_2010\UDP_XO\Client\bin\Debug\Client.pdb
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\UDP_XO_2010\UDP_XO\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\UDP_XO_2010\UDP_XO\Client\obj\x86\Debug\Client.exe
+C:\Documents and Settings\08101\Мои документы\Dropbox\Работа\UDP_XO_2010\UDP_XO\Client\obj\x86\Debug\Client.pdb
+C:\Users\Илья\Dropbox\Работа\UDP_XO_2010\UDP_XO\Client\bin\Debug\Client.exe
+C:\Users\Илья\Dropbox\Работа\UDP_XO_2010\UDP_XO\Client\bin\Debug\Client.pdb
+C:\Users\Илья\Dropbox\Работа\UDP_XO_2010\UDP_XO\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Dropbox\Работа\UDP_XO_2010\UDP_XO\Client\obj\x86\Debug\Client.exe
+C:\Users\Илья\Dropbox\Работа\UDP_XO_2010\UDP_XO\Client\obj\x86\Debug\Client.pdb
